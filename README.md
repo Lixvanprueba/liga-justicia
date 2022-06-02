@@ -9,3 +9,5 @@ Pueden hacer lo que quieran...
 Actualizacion GITHUB
 
 # cambios locales desde pc
+
+# cambios locales dese github
