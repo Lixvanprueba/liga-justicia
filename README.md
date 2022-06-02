@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 Actualizacion GITHUB
 
-# cambios locales
+# cambios locales desde pc
